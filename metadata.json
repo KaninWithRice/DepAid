@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Learner Information System Dashboard",
+  "description": "A replica of the DepED Learner Information System dashboard, with a functional sign-in page. Use 'deped' for both username and password.",
+  "requestFramePermissions": []
+}
