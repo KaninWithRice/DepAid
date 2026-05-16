@@ -3,7 +3,7 @@ import { initializeApp } from 'firebase/app';
 // FIX: Use named imports for Firebase v9+ modular SDK functions and types instead of a namespace import.
 import { getAuth, signInWithEmailAndPassword, onAuthStateChanged, signOut, User } from 'firebase/auth';
 import { getFirestore, collection, getDocs, addDoc, query, where } from 'firebase/firestore';
-import { PH_ADDRESS_DATA, type ProvinceInfo } from './addressData';
+import { PH_ADDRESS_DATA, type ProvinceInfo } from './addressData.ts';
 
 // NOTE FOR USER: 
 // In your Firebase console:
