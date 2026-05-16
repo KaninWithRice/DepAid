@@ -1902,5 +1902,6 @@ export const PH_ADDRESS_DATA: Record<string, ProvinceInfo | {}> = {
     'LIBJO': { zip: '', barangays: ['Albor (Pob.)', 'Arellano', 'Bayanihan', 'Doña Helen', 'Garcia', 'General Aguinaldo', 'Kanihaan', 'Llamera', 'Magsaysay', 'Osmeña', 'Plaridel', 'Quezon', 'Rosita', 'San Antonio (Pob.)', 'San Jose', 'Santo Niño'] },
     'LORETO': { zip: '', barangays: ['Carmen (Pob.)', 'Esperanza', 'Ferdinand', 'Helene', 'Liberty', 'Magsaysay', 'Panamaon', 'San Juan (Pob.)', 'Santa Cruz (Pob.)', 'Santiago (Pob.)'] },
     'SAN JOSE': { zip: '', barangays: ['Aurelio', 'Cuarinta', 'Don Ruben Ecleo', 'Jacquez', 'Justiniana Edera', 'Luna', 'Mahayahay', 'Matingbe', 'San Jose (Pob.)', 'San Juan', 'Santa Cruz', 'Wilson'] },
-    'TUBAJON': { zip: '', barangays: ['Diaz', 'Imelda', 'Mabini', 'Malinao', 'Navarro', 'Roxas', 'San Roque (Pob.)', 'San Vicente (Pob.)', 'Santa Cruz (Pob.)'] },
-  }};
+    'TUBAJON': { zip: '', barangays: ['Diaz', 'Imelda', 'Mabini', 'Malinao', 'Navarro', 'Roxas', 'San Roque (Pob.)', 'San Vicente (Pob.)', 'Santa Cruz (Pob.)'] }
+  }
+};
